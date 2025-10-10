@@ -17,7 +17,7 @@ const Navbar = () => {
 
     // ✅ Function to open admin panel (new tab)
     const openAdminPanel = () => {
-        window.open("http://localhost:5174", "_blank"); 
+        window.open("https://glowthreads-admin.vercel.app", "_blank"); 
         // Change this to your deployed admin URL later, e.g.:
         // window.open("https://admin.glowthreads.shop", "_blank");
     };

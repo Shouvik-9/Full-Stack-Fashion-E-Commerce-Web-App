@@ -151,6 +151,9 @@ Directory structure:
                 └── Verify.jsx
 
 ```
+
+---
+
 ## ⚡ How to Run Locally
 
 ### 🧱 Clone the Repository

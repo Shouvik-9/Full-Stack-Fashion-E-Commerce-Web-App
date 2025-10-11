@@ -153,6 +153,12 @@ Directory structure:
 ```
 ## ⚡ How to Run Locally
 
+### 🧱 Clone the Repository
+```
+git clone https://github.com/Shouvik-9/full-stack-fashion-e-commerce-web-app.git
+cd full-stack-fashion-e-commerce-web-app
+```
+
 ### 🖥️ Backend Setup
 ```
 cd backend

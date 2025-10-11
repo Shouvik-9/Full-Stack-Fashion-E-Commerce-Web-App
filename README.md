@@ -37,14 +37,13 @@
 | **Tools** | Git, npm, ESLint |
 
 ---
-
-## ✨ Features
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Features 
 
 ### 👥 User Features
 - 🛒 Browse and search products  
 - ❤️ Add items to cart  
 - 🔐 Secure user authentication using JWT  
-- 💳 Checkout via **Stripe** and **Razorpay**  
+- 💳 Checkout via **Stripe**, **Razorpay** and **Cash on Delivery** 
 - 📱 Fully responsive for all devices  
 
 ### 🛠️ Admin Features
@@ -176,4 +175,51 @@ npm run dev
 
 ## 🖼️ Screenshots
 ### 🏠 Home Page
+<img width="1755" height="3804" alt="Image" src="https://github.com/user-attachments/assets/af787af9-5541-4738-9590-6ae4783e39c3" />
 
+### 🛍️ Product Details
+<img width="1755" height="5139" alt="Image" src="https://github.com/user-attachments/assets/21c3541c-91bc-40b6-9870-6cdb950e4d3f" />
+
+### 🛒 Cart
+<img width="1755" height="1615" alt="Image" src="https://github.com/user-attachments/assets/1a0b3f6a-2c7a-4b4b-8500-d0205b7aa072" />
+
+### 💳 Checkout
+<img width="1755" height="1347" alt="Image" src="https://github.com/user-attachments/assets/96fb68b9-3b75-485a-8f2c-c94d52ea6241" />
+
+### 👨‍💼 Admin Dashboard
+
+#### Add Items 
+<img width="1755" height="983" alt="Image" src="https://github.com/user-attachments/assets/5c71ba11-b51d-4119-8683-acd37c8abb7a" />
+
+#### List Items
+<img width="1755" height="3998" alt="Image" src="https://github.com/user-attachments/assets/a329099e-53ec-49a4-9ea4-229248b34aab" />
+
+#### Orders
+<img width="1755" height="1505" alt="Image" src="https://github.com/user-attachments/assets/4176f92e-3c09-4cc7-adce-fa3f193e2128" />
+
+---
+
+## 🧠 Learning Highlights
+
+- Implemented JWT Authentication for secure login
+
+- Managed Multer & Cloudinary for image uploads
+
+- Built Admin Dashboard with React Router
+
+- Designed fully responsive UI using Tailwind CSS
+
+- Integrated Stripe & Razorpay payments
+
+- Deployed via Vercel Serverless functions
+
+---
+
+# 💬 Author:- **Shouvik Dutta**
+
+# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> [**GITHUB LINK**](https://github.com/Shouvik-9)
+
+# <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> [**LINKEDIN**](https://www.linkedin.com/in/shouvik-dutta-990730267/)
+
+# 🙏 THANK YOU
+---

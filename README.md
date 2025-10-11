@@ -217,7 +217,7 @@ npm run dev
 
 # 💬 Author:- **Shouvik Dutta**
 
-# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> [**GITHUB LINK**](https://github.com/Shouvik-9)
+# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> [**GITHUB**](https://github.com/Shouvik-9)
 
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> [**LINKEDIN**](https://www.linkedin.com/in/shouvik-dutta-990730267/)
 

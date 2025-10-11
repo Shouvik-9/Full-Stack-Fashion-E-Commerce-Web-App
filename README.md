@@ -4,6 +4,7 @@
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/9a19db9c-fd21-44af-aff6-284a0bbba4e3" />
 
+
 > **Glow Threads** is a modern, responsive, and secure fashion e-commerce platform built with the MERN stack.  
 > Users can browse, filter, add to cart, and purchase fashion products, while admins can manage products and orders from a feature-rich dashboard.
 
@@ -11,6 +12,15 @@
 
 ## 🚀 Live Demo
 👉 **[https://glowthreads-frontend.vercel.app/](https://glowthreads-frontend.vercel.app/)**
+
+---
+
+
+## 🏷️ Glow-Threads Logo
+<img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/53c74a1b-9d03-4178-96e5-a0cfd1259587" />
+
+## 🏷️ Glow-Threads Admin Panel Logo
+<img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/29dbcaf5-b5d1-44c0-b0c9-7b08956d30a6" />
 
 ---
 
